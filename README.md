@@ -1,4 +1,5 @@
 # final_exams_Linkone
+Is baat ko "deliverable" ke lafz se samjhein. Deliverable woh cheez hai jo aap ko aakhir mein haath mein chahiye (Concept 3 mein yahi tha).
 ///////////////////////////////////////////////////////////////JUST DELEGATE IT
 Poochna: “Achhe courses kaunse hain?” → AI sirf suggestions deta hai; compare aur decision aap ka kaam.
 Kaam dena: “3 free courses ki table banao: provider, language, time, link.” → AI ready result banata hai; aap sirf check karte ho.
@@ -27,5 +28,27 @@ Yaad rakhne ki baatein:
 - Context facts hain, Constraints shartein hain.
 **Exam tip:** scenario mein AI ne chupke se faisla kiya ya nateeja bina jaanche chala gaya, to jawab aksar missing Authority ya Verification hota hai.
 "Aage" likh dein to Concept 4 shuru karta hoon.
+/////////////////////////////////////////////////////////Concept 4: Research (short)
+AI yaad se bolta hai (purana) ya search karta hai (taaza). Price, date, link ke liye search chahiye, isliye brief mein "current information use karo" likho.
+Search se aayi baat ke saath source hota hai jo khul sake. Bina source ke current claim ka matlab search nahi hua.
+AI ka "maine search kiya" kehna sirf ishara hai. Asal saboot source aur uski tareekh hai.
+Source taaza ho yeh zaroori nahi, tareekh khud dekho.
+Citation verification nahi. Page khol kar woh sentence dhoondna verification hai.
+Deep research tab use karo jab final cheez khud ek report ho Khud ak report yani ak bara tafseli jawab jo mukhtlf chezon pr mushtamil ho. Chhote fact ke liye aam search kaafi hai.
+Exam tip: AI ne bina source ke taaza fact diya, to source maango aur page khol kar check karo.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
