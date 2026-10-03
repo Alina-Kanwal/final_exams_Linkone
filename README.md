@@ -46,6 +46,12 @@ Aur agar text mein kuch na likha ho, to AI ko likhna chahiye **"source mein nahi
 **Zaroori ehtiyat:** paste karne se pehle naam, phone number, account number aur wo cheezein nikaal dein jo aap kisi public notice board par nahi lagayengi. Temporary chat (ChatGPT) ya incognito chat (Claude) history save nahi karti, magar provider ek muddat tak copy rakhta hai, isliye pehla rule phir bhi zaroori hai.
 **Check:** AI ka quote kiya hua sentence original mein dhoondein. Hu-ba-hu mil jaye to theek hai. Milta-julta ho to AI ne paraphrase kiya aur usay quote kaha. Bilkul na mile to AI ne bana liya.
 **Exam tip:** scenario mein AI ne document se hat kar kuch aisi baat likh di jo document mein thi hi nahi, to hal yeh hai ke "sirf is text se" aur "quote karo" likho.
+///////////////////////////////////////////////////////Jawab nahi, Deliverable maango
+Ab tak har kaam ka nateeja chat ke ek message mein aata raha. Asal kaam mein nateeja ek cheez hoti hai jo koi aur istemal kar sake.
+Maan lo aap ki dost ne wohi sawal poocha jo aap ne AI se poocha tha. Chat ka jawab aap ko copy karke dobara likhna parega. Lekin agar AI ne ek one-page document bana diya, to aap use seedha bhej sakti hain.
+Jawab aap ko reply karta hai.
+Deliverable ek aisi shakal mein hota hai jise koi save kare, aage bheje, ya us par kaam kare: table, document, spreadsheet, file.
+Isliye brief ki Deliverable line mein shakal likhein: "ek page ka document, jis mein 2 line ka intro, table, recommendation aur sources hon." Agar nateeja data hai to table ya spreadsheet maango, paragraphs nahi. Kuch assistants document alag panel mein kholte hain, kuch file download karwate hain. Dono ka matlab ek hai: kaam ki cheez chat se alag ho jati hai.
 
 
 
