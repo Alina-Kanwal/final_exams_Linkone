@@ -52,6 +52,14 @@ Maan lo aap ki dost ne wohi sawal poocha jo aap ne AI se poocha tha. Chat ka jaw
 Jawab aap ko reply karta hai.
 Deliverable ek aisi shakal mein hota hai jise koi save kare, aage bheje, ya us par kaam kare: table, document, spreadsheet, file.
 Isliye brief ki Deliverable line mein shakal likhein: "ek page ka document, jis mein 2 line ka intro, table, recommendation aur sources hon." Agar nateeja data hai to table ya spreadsheet maango, paragraphs nahi. Kuch assistants document alag panel mein kholte hain, kuch file download karwate hain. Dono ka matlab ek hai: kaam ki cheez chat se alag ho jati hai.
+Caveat ka matlab hai woh ehtiyat ka nishan, yani AI ka yeh batana ke "is baat par pura yaqeen nahi" ya "isay khud check kar lo".
+Misal: AI ne aap ko courses ki list di:
+Course A: free ✔
+Course B: free, (unverified: price page khula nahi)
+Brackets mein jo likha hai wohi caveats hain. Yeh batate hain ke kis line par bharosa kam hai.
+Masla kahan hota hai? Jab AI chat se document bana kar deta hai, to wo use saaf aur khoobsurat banana chahta hai. Is mein yeh nishan gir sakte hain:
+Course B ki line sirf "free" reh jati hai.
+Course C ki line bhi bas "free" reh jati hai.
 
 
 
