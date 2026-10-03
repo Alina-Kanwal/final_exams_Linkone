@@ -36,6 +36,22 @@ Source taaza ho yeh zaroori nahi, tareekh khud dekho.
 Citation verification nahi. Page khol kar woh sentence dhoondna verification hai.
 Deep research tab use karo jab final cheez khud ek report ho Khud ak report yani ak bara tafseli jawab jo mukhtlf chezon pr mushtamil ho. Chhote fact ke liye aam search kaafi hai.
 Exam tip: AI ne bina source ke taaza fact diya, to source maango aur page khol kar check karo.
+///////////////////////////////////////////////////////////**Concept 5: AI ko source dena**
+Kuch kaam aise hote hain jinke liye AI web par kuch dhoond hi nahi sakta: aap ke office ka notice, ek message thread, ya kisi course ka syllabus. Yeh cheez sirf aap ke paas hai, isliye aap AI ko deti hain.
+Maan lo aap kisi se kehti hain "yeh letter parh kar batao ismein kya likha hai". Agar woh letter ke saath apni purani yaad bhi mila de, to aap ko pata nahi chalega ke kaunsi baat letter se hai aur kaunsi uski apni. AI ke saath bhi yehi hota hai.
+Isliye source ke saath **do hidayat** zaroor likhein:
+"Sirf neeche diye gaye text se jawab do."** Is se AI apni yaad nahi milata.
+"Har jawab ke saath woh sentence quote karo jo use(jo hum ai ko source dta hain usmain exact wording main wo bt likhi hoti hy) kiya."** Is se har jawab ek sentence tak wapas jaata hai jo aap dhoond sakti hain.
+Aur agar text mein kuch na likha ho, to AI ko likhna chahiye **"source mein nahi hai"**. Yeh ek achha jawab hai, khali jagah ko apne andaze se bharna nahi.
+**Zaroori ehtiyat:** paste karne se pehle naam, phone number, account number aur wo cheezein nikaal dein jo aap kisi public notice board par nahi lagayengi. Temporary chat (ChatGPT) ya incognito chat (Claude) history save nahi karti, magar provider ek muddat tak copy rakhta hai, isliye pehla rule phir bhi zaroori hai.
+**Check:** AI ka quote kiya hua sentence original mein dhoondein. Hu-ba-hu mil jaye to theek hai. Milta-julta ho to AI ne paraphrase kiya aur usay quote kaha. Bilkul na mile to AI ne bana liya.
+**Exam tip:** scenario mein AI ne document se hat kar kuch aisi baat likh di jo document mein thi hi nahi, to hal yeh hai ke "sirf is text se" aur "quote karo" likho.
+
+
+
+
+
+
 
 
 
