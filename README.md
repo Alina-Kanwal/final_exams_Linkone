@@ -60,6 +60,19 @@ Brackets mein jo likha hai wohi caveats hain. Yeh batate hain ke kis line par bh
 Masla kahan hota hai? Jab AI chat se document bana kar deta hai, to wo use saaf aur khoobsurat banana chahta hai. Is mein yeh nishan gir sakte hain:
 Course B ki line sirf "free" reh jati hai.
 Course C ki line bhi bas "free" reh jati hai.
+/////////////////////////////////////////////////////////////////1. Tareeqa (method): "pehle plan, phir go"
+Kaam shuru hone se pehle AI se kahein: "Apne steps ki list banao aur mere 'go' ka intezar karo."
+Plan parhne mein ek minute lagta hai aur ghalti theek karne mein ek jumla. Wohi ghalti kaam ke baad pakri jaye to poora kaam dobara karna parta hai. Plan mein ek step badal kar "go" kahein, taake aap ka veto asli ho.
+Approved plan qaid nahi hai. AI behtar raasta dhoond sakta hai. Ghalti chupke se badal dena hai, badalna nahi.
+2. Hadden (boundaries): AI kya karega, kya nahi
+Research karo, kharido mat. (Jo paisa chala jaye wapas mushkil se aata hai.)
+Draft likho, bhejo mat. (Bhejne se doosre ko dikhne wala wada ban jata hai.)
+Dekho, delete mat karo. (Delete karne se wohi saboot mit jata hai jis se aap kaam check karti.)
+Chuno, magar batao ke kab chuna. (Chupke se kiya hua faisla review nahi ho sakta.)
+Bharosa record se barhta hai. Pehli baar plan aur har step parho. Paanchvi baar wohi kaam theek chala to sirf plan parho.
+Check: jo plan aap ne approve kiya aur jo AI ne kiya, dono ko saath rakhein. Har farq ek sawal hai. Approve hone ke baad chupke se badla hua plan wohi cheez hai jo yeh concept pakadta hai.
+Exam tip: scenario mein AI ne bina poochay mail bhej di, kuch delete kar diya ya khareed liya, to ghalti Authority line ki hai: "draft karo, bhejo mat" wali hadd nahi likhi gayi thi.
+"Concise" likhein to chhota version bhej dunga, ya "aage" likhein.
 
 
 
