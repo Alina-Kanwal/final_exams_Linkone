@@ -37,7 +37,6 @@ Yaad rakhne ki baatein:
 - Yeh form nahi, sochne ka tool hai. Nateeja nirash kare to chhe mein se koi ek sawal khali tha.
 - Context facts hain, Constraints shartein hain.
 **Exam tip:** scenario mein AI ne chupke se faisla kiya ya nateeja bina jaanche chala gaya, to jawab aksar missing Authority ya Verification hota hai.
-"Aage" likh dein to Concept 4 shuru karta hoon.
 /////////////////////////////////////////////////////////Research (short)(4)
 AI yaad se bolta hai (purana) ya search karta hai (taaza). Price, date, link ke liye search chahiye, isliye brief mein "current information use karo" likho.
 Search se aayi baat ke saath source hota hai jo khul sake. Bina source ke current claim ka matlab search nahi hua.
