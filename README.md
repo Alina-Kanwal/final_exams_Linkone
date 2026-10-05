@@ -9,6 +9,7 @@ Aap likhti hain, "3 free AI courses ka table banao: provider, language, time aur
 3. Nateeja khud parkhna:
 AI ka table dekh kar usay maan nahi lena. Aap ek link kholti hain aur dekhti hain:
 Kya course waqai free hai?
+Teen mein se ek hota hai: page table se mel khata hai, kisi detail mein farq hai, ya link course tak pohanchta hi nahi. Table dekh kar pehle se nahi pata chalta ke kaunsa hoga.
 //////////////////////////////////////////////////////////////From Asking AI to Giving AI the Job(1)
 Poochna: “Achhe courses kaunse hain?” → AI sirf suggestions deta hai; compare aur decision aap ka kaam.
 Kaam dena: “3 free courses ki table banao: provider, language, time, link.” → AI ready result banata hai; aap sirf check karte ho.
