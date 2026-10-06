@@ -82,6 +82,17 @@ Bharosa record se barhta hai. Pehli baar plan aur har step parho. Paanchvi baar 
 Check: jo plan aap ne approve kiya aur jo AI ne kiya, dono ko saath rakhein. Har farq ek sawal hai. Approve hone ke baad chupke se badla hua plan wohi cheez hai jo yeh concept pakadta hai.
 Exam tip: scenario mein AI ne bina poochay mail bhej di, kuch delete kar diya ya khareed liya, to ghalti Authority line ki hai: "draft karo, bhejo mat" wali hadd nahi likhi gayi thi.
 "Concise" likhein to chhota version bhej dunga, ya "aage" likhein.
+/////////////////////////////////////////////////////////////////Kaam dobara dena
+Asal kaam mein wohi kaam baar baar aata hai: har hafte ki report, har mahine ka comparison. Is concept ka sawal yeh hai ke dobara dene par aap ko sab kuch dobara type na karna pare
+1. Brief ko save karo. (. Brief save karna = kaam ki hidayat save karna)
+Jo hidayat (brief) aap AI ko deti hain, use chat se bahar kisi note mein save rakhein. Kaam dobara aaye to wohi brief naye chat mein chalaen.
+Correction: yeh "bara project" ke liye nahi, balki us kaam ke liye hai jo baar baar wapas aata hai, jaise har hafte ki report.
+Aur save karne ka maqsad yeh hai ke duniya badalne wale farq (qeemat badli) aur AI ke badalne wale farq (alag raasta chuna) alag pehchane ja sakein.
+2.Project mein woh cheezein hoti hain jo kai alag kaamon mein ek jaisi rehti hain: company ki refund policy (knowledge) aur rule jaise "jo confirm na ho use unverified likho" (standing instruction). AI har naye chat mein inhein khud parh leta hai.
+Misal se farq:
+Brief wo parcha hai jis par likha hai "aaj yeh dish banao."
+Project wo kitchen hai jis mein saman aur ghar ke usool pehle se rakhe hain.
+
 
 
 
