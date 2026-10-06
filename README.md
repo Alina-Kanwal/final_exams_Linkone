@@ -95,6 +95,17 @@ Project wo kitchen hai jis mein saman aur ghar ke usool pehle se rakhe hain.
 //////////////////////////////////////////////////////////////////Scheduled task (optional).
 Scheduled task Project ki files nahi dekhta. Isliye brief mein sab kuch khud likhna hota hai, kyunke kaam akela chalta hai aur uske paas aap ke Project ka background nahi hota.
 : is hisse ka asal nukta sirf yeh hai ke scheduled task ko poora brief chahiye. Agar sawal mein kaam akela chal raha hai aur background ghayab hai, to wajah yahi hogi ke brief mein sab kuch nahi likha gaya tha.
+//////////////////////////////////////////////////////////////////AI bhatke to kya karein (Intervene)
+AI bhatke to kya karein (Intervene)
+Course ab tak ke kaam ko jaan boojh kar toorta hai. Aap apna brief chalati hain, magar Constraints aur Authority wali lines nikaal kar. Phir dekhti hain ke AI kahan bhatakta hai (paid courses, ghalat language, ya aisa faisla jo aap ne diya hi nahi), aur use sab se chhote message se theek karti hain. Maqsad yeh hai ke jab asli kaam mein masla aaye, to aap ko pehle se pata ho ke kya karna hai.
+Course ke mutabiq Intervene ki chhe chaalein hain, aur chaal nishani dekh kar chuni jati hai:
+Dusra sawal hal kar diya → Ruko, aur outcome ek line mein dobara likho.
+Ek fact ya ek line ghalat hai → Correct karo: ghalti ka naam lo aur batao ke uski jagah kya aaye.
+Ghalat taraf ja raha hai, magar abhi ghalat nahi hua → Redirect karo: sirf taraf batao, poora kaam dobara nahi.
+Kaam hi ghalat tha → Requirement badlo, aur saaf kaho ke tum ne badli hai.
+Is level ka step AI se nahi ho raha → Escalate: thinking on karo ya agar plan mein hai to stronger model lagao, aur wohi brief dobara chalao. Free plan mein stronger model na ho to kaam ko chhota karo: ek ek step, har ek check ke saath.
+Phir bhi baar baar fail → Kaam wapas apne haath mein lo. Kuch kaam aap ke hi hote hain.
+Escalate wali chaal aksar chhoot jati hai. Kabhi "AI fail ho gaya" ka asal matlab hota hai "maine ghalat level use kiya". Ek ehtiyat: yahan escalate ka matlab behtar machine hai. Insaan expert ke paas jana woh akhri chaal (6) hai, jis ka waqt Concept 10 batata hai.
 
 
 
