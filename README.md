@@ -92,6 +92,9 @@ Aur save karne ka maqsad yeh hai ke duniya badalne wale farq (qeemat badli) aur 
 Misal se farq:
 Brief wo parcha hai jis par likha hai "aaj yeh dish banao."
 Project wo kitchen hai jis mein saman aur ghar ke usool pehle se rakhe hain.
+//////////////////////////////////////////////////////////////////Scheduled task (optional).
+Scheduled task Project ki files nahi dekhta. Isliye brief mein sab kuch khud likhna hota hai, kyunke kaam akela chalta hai aur uske paas aap ke Project ka background nahi hota.
+: is hisse ka asal nukta sirf yeh hai ke scheduled task ko poora brief chahiye. Agar sawal mein kaam akela chal raha hai aur background ghayab hai, to wajah yahi hogi ke brief mein sab kuch nahi likha gaya tha.
 
 
 
