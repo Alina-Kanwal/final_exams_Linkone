@@ -126,6 +126,23 @@ chaar sawal jo nateeje ko "lazmi check" list mein daal dete hain. Stakes (ghalti
 3)Chaar cheezein jo bina insaan ke kabhi nahi jaati:
 4)Chaar cheezein jo bina insaan ke kabhi nahi jaati: final client deliverables, audit ya paison ke hisaab se zaroori calculations, regulated ya hassas data, aur public ya qanooni communication.
 5)Sab se zaroori usool: AI ke kaam karne se zimmedari AI par nahi chali jati. Nateeje par naam aap ka hota hai.
+scenario mein AI ka nateeja client ko jane wala ho ya paison ka hisaab ho, to jawab hota hai ke ek naamzad insaan use parhe, chahe run kitna bhi saaf lage. Aur "citation hai" ka matlab verification nahi, Trace karna verification hai.
+//////////////////////////////////////////////////////Wohi kaam, doosra AI (Same Job, Different AI)
+Ek achhe brief ki pehchan yeh hai ke woh kisi aur AI mein bhi chal jaye.
+Karna kya hai (Do It Now): ek doosra free assistant kholein (jaise Claude ki jagah ChatGPT ya Gemini), aur apna poora brief bina badle paste kar dein. Phir sirf is run ke liye paanch cheezein note karein:
+Kya usne kaam poora kiya?
+Kitne messages lage?
+Kya Authority wali line ka khayal rakha?
+Kya kuch "unverified" mark kiya?
+Deliverable pehle se kaisa tha?
+***Agar doosra assistant na ho to usi assistant mein naya chat kholein, ya doosra model chunein. Bas yeh likh dein ke aap ne kaunsa test kiya, kyunke woh test sirf yeh dekhta hai ke ek hi AI har baar kitna badalta hai.
+***Brief isliye chal gaya kyunke woh kaam batata hai, tool nahi. Aap ki chhe lines mein kisi button ka naam nahi. Buttons assistants ke hisaab se alag hain aur har kuch mahine mein badalte hain, magar tareeqa nahi badalta. Controls kahan hain, yeh Quick Reference page par dekha jata hai, yaad nahi kiya jata.
+***brief doosre AI mein bina badle chalao, aur dekho ke woh chalta hai ya nahi. Agar chal gaya, to brief kaam ke baare mein tha (achha brief). Agar kisi line par doosra AI atak gaya, to us line mein kami ho sakti hai.
+***doosre nateeje ka ek claim wohi Concept 10 ke chaar qadam (Identify, Trace, Challenge, Decide) se parkhein, aur chaar faislon (Accept, Correct, Investigate, Reject) mein se ek par pohanchein. Assistant badalne se tareeqa nahi badalta.
+Exam tip: yeh Product & Model Selection (12%) mein aata hai. Agar scenario mein poocha jaye ke ek assistant se doosre par jane par kya badalna chahiye, to jawab hai: brief nahi, sirf controls ke naam. Aur "kaun sa AI behtar hai" ka jawab ranking nahi, balki do runs ka record hai.
+**Do runs ka record** ka matlab hai ke aap ne wohi brief do assistants mein chalaya, aur dono mein jo hua woh likh liya. Jaise: kaam poora hua ya nahi, kitne messages lage, aur nateeje mein kya farq tha.
+Isme sirf "kya hua" likhna hai, "kaun behtar hai" nahi.
+
 
 
 
