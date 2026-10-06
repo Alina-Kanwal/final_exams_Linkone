@@ -106,6 +106,18 @@ Kaam hi ghalat tha → Requirement badlo, aur saaf kaho ke tum ne badli hai.
 Is level ka step AI se nahi ho raha → Escalate: thinking on karo ya agar plan mein hai to stronger model lagao, aur wohi brief dobara chalao. Free plan mein stronger model na ho to kaam ko chhota karo: ek ek step, har ek check ke saath.
 Phir bhi baar baar fail → Kaam wapas apne haath mein lo. Kuch kaam aap ke hi hote hain.
 Escalate wali chaal aksar chhoot jati hai. Kabhi "AI fail ho gaya" ka asal matlab hota hai "maine ghalat level use kiya". Ek ehtiyat: yahan escalate ka matlab behtar machine hai. Insaan expert ke paas jana woh akhri chaal (6) hai, jis ka waqt Concept 10 batata hai.
+//////////////////////////////////////////////////////////////////Qabool karne se pehle jaanchein (Verify Before You Accept)
+AI ka kaam check karo" sirf nasihat hai, tareeqa nahi. Yeh concept usay chaar qadam aur chaar faislon mein badal deta hai
+Chaar qadam (Identify, Trace, Challenge, Decide)
+Identify: nateeje ka kaunsa hissa check karne layaq hai? Sab kuch nahi. Qeematein, tareekhein, hisaab, quotes, qanooni ya hifazat ki baatein, jo recommendation par aap amal karengi, aur jo cheez wapas na ho sake. Wahan check karo jahan ghalti ka nuksan zyada hai.
+Trace: ek zaroori claim ko uske source tak lekar jao. Page kholo, woh sentence dhoondo jo claim ko support karta hai, tareekh dekho, aur sochho ke source kitna mazboot hai (dhondna hota hy ky waqaii given source m wohi claim likha hy ya ni?
+Challenge: poochho ke yeh kaise ghalat ho sakta hai. Kya yeh page likhne ke baad badal gaya? Kya AI doosre darje ke source se dohra raha hai? Kya andaza fact bana kar likha gaya? Do mazboot source mein ikhtilaf ho to aam taur par asli source jeetta hai, siwaye jab woh purana ho.
+source mil jane ke baad poochna ke kya yeh ab bhi theek hai, kya yeh asli hai, aur kya AI ne apni taraf se kuch barha diya.
+Chaar faisle (Accept, Correct, Investigate, Reject)
+Accept: saboot kaafi hai, nateeja istemal karo.
+Correct: ek khaas ghalti hai jo theek ho sakti hai (yeh Intervene wali chaal hai).
+Investigate: saboot adhura ya mutazad hai, dobara Trace karo.
+Reject: nateeja bharose layaq nahi, kaam wapas apne haath mein lo.
 
 
 
