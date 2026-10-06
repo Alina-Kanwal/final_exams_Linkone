@@ -118,6 +118,14 @@ Accept: saboot kaafi hai, nateeja istemal karo.
 Correct: ek khaas ghalti hai jo theek ho sakti hai (yeh Intervene wali chaal hai).
 Investigate: saboot adhura ya mutazad hai, dobara Trace karo.
 Reject: nateeja bharose layaq nahi, kaam wapas apne haath mein lo.
+1)Reject ka ek dusra rukh bhi hai.
+Agar aap ek hi nateeje ko kai baar theek kar chuki hain aur har baar sudhaar pehle se kam ho raha hai, to masla aap ke message mein nahi, kaam mein hai.
+Tab aur message likhne ke bajaye usi field ke kisi jaanne wale insaan ko nateeja dikhayein.
+2)Review thresholds
+chaar sawal jo nateeje ko "lazmi check" list mein daal dete hain. Stakes (ghalti ki qeemat), Reversibility (kya wapas ho sakta hai), Audience (kaun parhega, client ya public aap akeli se zyada ahmiyat rakhte hain), Regulatory exposure (kya data ya shobha qanoon se bandha hai). Inme se ek bhi cross ho to kaafi hai.
+3)Chaar cheezein jo bina insaan ke kabhi nahi jaati:
+4)Chaar cheezein jo bina insaan ke kabhi nahi jaati: final client deliverables, audit ya paison ke hisaab se zaroori calculations, regulated ya hassas data, aur public ya qanooni communication.
+5)Sab se zaroori usool: AI ke kaam karne se zimmedari AI par nahi chali jati. Nateeje par naam aap ka hota hai.
 
 
 
