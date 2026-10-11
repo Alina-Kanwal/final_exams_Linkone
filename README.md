@@ -142,6 +142,46 @@ Deliverable pehle se kaisa tha?
 Exam tip: yeh Product & Model Selection (12%) mein aata hai. Agar scenario mein poocha jaye ke ek assistant se doosre par jane par kya badalna chahiye, to jawab hai: brief nahi, sirf controls ke naam. Aur "kaun sa AI behtar hai" ka jawab ranking nahi, balki do runs ka record hai.
 **Do runs ka record** ka matlab hai ke aap ne wohi brief do assistants mein chalaya, aur dono mein jo hua woh likh liya. Jaise: kaam poora hua ya nahi, kitne messages lage, aur nateeje mein kya farq tha.
 Isme sirf "kya hua" likhna hai, "kaun behtar hai" nahi.
+Kaam dene ke words
+Delegate: kaam kisi aur ko saunpna
+Outcome: kaam khatam hone par jo haalat honi chahiye
+Deliverable: woh tayyar cheez jo aakhir mein haath mein aaye (table, document)
+Constraint: kaam par hadd ya shart
+Context: background facts jo AI nahi jaanta
+Scope: kaam ka daira (kya shamil hai, kya nahi)
+Ambiguous: mubham, jis ke do matlab nikal sakein
+Ikhtiyar ke words
+Authority: ikhtiyar, yani AI kya khud tay kar sakta hai
+Discretion: apni samajh se faisla karne ki aazadi
+Autonomous: khud mukhtar, bina poochay kaam karne wala
+Escalate: faisla upar kisi bade ya zimmedar insaan ko bhejna
+Standing instruction: woh hidayat jo har chat mein hamesha lagoo rahe
+Mandatory: lazmi, jis se bacha nahi ja sakta
+Check karne ke words
+Verification: tasdeeq, yani nateeje ko jaanchna
+Verify / Corroborate: jaanchna / doosre source se tasdeeq karna
+Unverified: jis ki tasdeeq nahi hui
+Caveat: ehtiyat ka nishan, jaise “yeh abhi confirm nahi”
+Trace: claim ko pichhe source tak le jana
+Challenge: shak se poochna ke yeh ghalat kaise ho sakta hai
+Fabricated: banaya hua, jo asal mein tha hi nahi
+Plausible: maqool lagne wala, magar zaroori nahi ke sahi ho
+Stale: purana, jo ab sahi nahi raha
+Hallucination: AI ka pur-yaqeen magar bana hua jawab
+Bigarne par mudakhalat ke words
+Intervene: beech mein dakhal dena
+Redirect: rukh badalna
+Drift: dheere dheere asal maqsad se hat jana
+Comply: hidayat par amal karna
+Review ke 4 paimane (Review thresholds)
+Stakes: daanv par kya hai, ghalti ka nuksan kitna
+Reversibility: kya ghalti wapas ho sakti hai
+Audience: nateeja kaun parhega
+Regulatory exposure: qanoon ya ziabte ka asar
+Threshold: woh hadd jis ke paar karte hi lazmi check ban jata hai
+Accountable: jawabdeh, jis se sawal hoga
+Verification ke 4 faislay: Accept (qabool), Correct (theek karo), Investigate (aur chhaan-been), Reject (radd).
+Agar yeh words sawal mein aaye to exam ka matlab badal sakta hai, jaise “unverified” aur “unconfirmed” ya “mandatory” aur “optional”.
 
 
 
