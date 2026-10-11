@@ -151,6 +151,7 @@ Constraint: kaam par hadd ya shart
 Context: background facts jo AI nahi jaanta
 Scope: kaam ka daira (kya shamil hai, kya nahi)
 Ambiguous: mubham, jis ke do matlab nikal sakein
+Ambiguity matlab hai mubham hona, yani baat ka saaf na hona, jis ke do ya zyada matlab nikal sakein.
 Ikhtiyar ke words
 Authority: ikhtiyar, yani AI kya khud tay kar sakta hai
 Discretion: apni samajh se faisla karne ki aazadi
