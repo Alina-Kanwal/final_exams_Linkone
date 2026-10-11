@@ -142,6 +142,7 @@ Deliverable pehle se kaisa tha?
 Exam tip: yeh Product & Model Selection (12%) mein aata hai. Agar scenario mein poocha jaye ke ek assistant se doosre par jane par kya badalna chahiye, to jawab hai: brief nahi, sirf controls ke naam. Aur "kaun sa AI behtar hai" ka jawab ranking nahi, balki do runs ka record hai.
 **Do runs ka record** ka matlab hai ke aap ne wohi brief do assistants mein chalaya, aur dono mein jo hua woh likh liya. Jaise: kaam poora hua ya nahi, kitne messages lage, aur nateeje mein kya farq tha.
 Isme sirf "kya hua" likhna hai, "kaun behtar hai" nahi.
+//////////////////////////////////////////////////////////////VOCABULARY
 Kaam dene ke words
 Delegate: kaam kisi aur ko saunpna
 Outcome: kaam khatam hone par jo haalat honi chahiye
