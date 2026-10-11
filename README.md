@@ -164,6 +164,7 @@ Verification: tasdeeq, yani nateeje ko jaanchna
 Verify / Corroborate: jaanchna / doosre source se tasdeeq karna
 Unverified: jis ki tasdeeq nahi hui
 Caveat: ehtiyat ka nishan, jaise “yeh abhi confirm nahi”
+AI ke kaam mein: AI ne courses ki list di, aur ek ke saath likha “(unverified: price page khula nahi)”. Brackets wali baat caveat hai. Yeh batati hai ke us line par bharosa kam hai.
 Trace: claim ko pichhe source tak le jana
 Challenge: shak se poochna ke yeh ghalat kaise ho sakta hai
 Fabricated: banaya hua, jo asal mein tha hi nahi
