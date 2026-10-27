@@ -186,6 +186,11 @@ Threshold: woh hadd jis ke paar karte hi lazmi check ban jata hai
 Accountable: jawabdeh, jis se sawal hoga
 Verification ke 4 faislay: Accept (qabool), Correct (theek karo), Investigate (aur chhaan-been), Reject (radd).
 Agar yeh words sawal mein aaye to exam ka matlab badal sakta hai, jaise “unverified” aur “unconfirmed” ya “mandatory” aur “optional”.
+**Flag** ka matlab hai kisi cheez par **nishan laga dena**, yaani "yeh pakka nahi hai, pehle check karo."
+
+Q10 mein AI ne 6 cheezon par "unverified" ka nishan lagaya. Baqi cheezon par nishan nahi tha, lekin iska matlab yeh nahi ke woh sahi hain, ho sakta hai AI ko un ki ghalti nazar hi na aayi ho.
+
+Q17 ka jawab (A/B/C/D) bhejo.
 
 
 
